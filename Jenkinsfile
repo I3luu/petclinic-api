@@ -12,7 +12,7 @@ pipeline
     amiNameTagValue = "";
     thisTestNameVar = "";
     thisTestValue = "api-testing";
-    ProjectName = "petclinic-spring";
+    ProjectName = "petclinic-api";
     fileProperties = "file.properties"
   }
 
